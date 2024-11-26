@@ -1,4 +1,4 @@
-# CrUX API Performance Analyzer
+# CrUX API Core Web Vitals Performance Analyzer
 
 A Python tool that analyzes Core Web Vitals performance metrics using the Chrome User Experience Report (CrUX) API.
 
