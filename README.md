@@ -71,6 +71,25 @@ https://wpengine.com,https://wpengine.com/,2026,0.8411,0,2500,0.1176,2500,4000,0
 Python 3.7+
 See requirements.txt for package dependencies
 
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch:
+    ```bash
+    git checkout -b feature/AmazingFeature
+    ```
+
+3. Commit your changes:
+    ```bash
+    git commit -m 'Add some AmazingFeature'
+    ```
+
+4. Push to the branch:
+    ```bash
+    git push origin feature/AmazingFeature
+    ```
+
+5. Open a Pull Request
 
 ## License
 
